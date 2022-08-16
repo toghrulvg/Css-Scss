@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar{
+    background-color: brown;
+    ul{
+        float: right;
+        
+    }
+    img{
+        height: 50px;
+        width: 100px;
+    }
+}
+#cards{
+    .qwe{
+        border:none;
+    }
+    .card-body{
+        background-color: #6c747e;
+    }
+    .card-heading{
+        background-color: #6c747e;
+    }
+    background-color: #6c747e;
+
+    .card-width{
+        width: 500px;
+    }
+    .card-heading{
+        h3{
+            padding:20px;
+        }
+    }
+    .dragon-img{
+        width: 774px;
+        height: 330px;
+
+        img{
+            width: 100%;
+            height: 100%;
+
+        }
+    }
+}
+#headings{
+    
+    img{
+        width: 386px;
+        height: 180px;
+    }
+}
+#about-links {
+    background-color: #6c747e;
+    a{
+        text-decoration: none;
+    }
+    .list-unstyled{
+        i{
+            font-size: 25px;
+        }
+    }
+}
